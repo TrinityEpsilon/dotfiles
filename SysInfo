@@ -1,0 +1,36 @@
+
+Last updated:07/03/2016
+Last backup: N/A
+Last cleaning:05/14/2016
+
+Update Notes:
+Updated LibreOffice.
+
+Known Bugs:
+
+***
+Ver. 07/03/2016
+***
+None so far; that's a really, really good sign.
+
+***
+Ver. 06/16/2016
+***
+None so far; that's a good sign.
+
+
+***
+Ver. 05/29/2016
+***
+Reboot doesn't quite work.
+/ is in use
+
+06/16/2016
+Browers: become unstable when running certain applications (reasonable).
+SSL:     computer autolocks after a while (easy fix).
+
+***
+Ver. 04/16/2016
+***
+Vivaldi: crashes after running; try using vivaldi-stable for now.
+Emacs:   glitchy display on terminals. Switched from terminator to xterm to alleviate problem.
