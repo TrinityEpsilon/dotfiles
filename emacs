@@ -47,3 +47,8 @@
 (setq default-tab-width 4) ; or any other preferred value
 (setq c-default-style "bsd"
 	    c-basic-offset 4)
+
+(setq backup-directory-alist
+	  `((".*" . ,temporary-file-directory)))
+(setq auto-save-file-name-transforms
+	  `((".*" ,temporary-file-directory t)))
