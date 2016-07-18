@@ -27,6 +27,8 @@ XTerm*cursorColor: #ffffff
 *xterm*color14: #4eb4fa
 *xterm*color15: #d0d0d0
 
+Xcursor.theme: bridge
+
 URxvt.font:                xft:Terminus:pixelsize=16
 URxvt.letterSpace:         -1
 
