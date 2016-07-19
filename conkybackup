@@ -94,4 +94,5 @@ override_utf8_locale no
 # stuff after 'TEXT' will be formatted on screen
 
 TEXT
-${font Ubuntu Condensed:size=30} ${alignc}${time %k:%M %A %B %d %Y}${font Ubuntu Condensed:size=11}
+${font Tahoma:size=50} ${alignc}${time %k:%M}${font Tahoma:size=11}
+${font Tahoma:size=30} ${alignc}${time %a %b %d %y}${font Tahoma:size=11}
