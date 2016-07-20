@@ -73,8 +73,8 @@ alignment bottom_left
 
 # Gap between borders of screen and text
 # same thing as passing -x at command line
-gap_x 10
-gap_y 10
+gap_x 30
+gap_y 50
 
 # Subtract file system buffers from used memory?
 no_buffers yes
@@ -94,4 +94,5 @@ override_utf8_locale no
 # stuff after 'TEXT' will be formatted on screen
 
 TEXT
-${font Ubuntu Mono:size=30} ${alignc}${time %k:%M %A %B %d %Y}${font Ubuntu Mono:size=11}
+${font Estrangelo Midyat Bold:size=45} ${alignc}${time %k:%M}${font Ubuntu Mono:size=11}
+${font Estrangelo Midyat:size=30} ${alignc}${time %D}${font Ubuntu Mono:size=11}
