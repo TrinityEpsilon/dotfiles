@@ -94,5 +94,5 @@ override_utf8_locale no
 # stuff after 'TEXT' will be formatted on screen
 
 TEXT
-${font Estrangelo Midyat Bold:size=45} ${alignc}${time %k:%M}${font Ubuntu Mono:size=11}
-${font Estrangelo Midyat:size=30} ${alignc}${time %D}${font Ubuntu Mono:size=11}
+${font Serif:size=50} ${alignc}${time %k:%M}${font Ubuntu Mono:size=11}
+${font Serif:size=30} ${alignc}${time %b %d %Y}${font Ubuntu Mono:size=11}
